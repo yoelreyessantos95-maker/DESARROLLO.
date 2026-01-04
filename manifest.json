@@ -1,0 +1,13 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "desarrollo",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "desa",
+  "start_url": "/",
+  "theme_color": "#04ff00",
+  "id": "live",
+  "description": "obten tu sito web"
+}
